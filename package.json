@@ -1,0 +1,20 @@
+
+{
+  "name": "mysiteas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Suren770/mysiteas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Suren770/mysiteas/issues"
+  },
+  "homepage": "https://github.com/Suren770/mysiteas#readme"
+}
